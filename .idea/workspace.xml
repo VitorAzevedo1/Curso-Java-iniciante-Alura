@@ -1,11 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="985edda5-44ff-4cf9-a7f7-814e5a06d38a" name="Changes" comment="" />
+    <list default="true" id="985edda5-44ff-4cf9-a7f7-814e5a06d38a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CursoJavaAlura.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/CalculoDesconto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Casting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Condicional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Conversao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ConversaoDolaresReais.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Estudos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Leitura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Media.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Palavras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Perfil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimeiraClasse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Produto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Soma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Subtracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwitchCase.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 4
@@ -18,12 +54,70 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Leitura.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Palavras.executor": "Run",
+    "Application.Perfil.executor": "Run",
+    "Application.PrimeiraClasse.executor": "Run",
+    "Application.Subtracao.executor": "Run",
+    "Application.SwitchCase.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Leitura">
+    <configuration name="Leitura" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Leitura" />
+      <module name="CursoJavaAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="CursoJavaAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Palavras" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Palavras" />
+      <module name="CursoJavaAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Subtracao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Subtracao" />
+      <module name="CursoJavaAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwitchCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwitchCase" />
+      <module name="CursoJavaAlura" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Leitura" />
+        <item itemvalue="Application.SwitchCase" />
+        <item itemvalue="Application.Palavras" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Subtracao" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -40,7 +134,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1730398494053</updated>
-      <workItem from="1730398494975" duration="3000" />
+      <workItem from="1730398494975" duration="4108000" />
     </task>
     <servers />
   </component>
